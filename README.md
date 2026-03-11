@@ -44,7 +44,9 @@ Currently seeking opportunities as a **Java / Software Developer**.
 If you have any internship or job opportunities, feel free to connect with me.
 
 📧 Email: mousumebarick@gmail.com  
+
 🔗 LinkedIn: https://www.linkedin.com/in/mousume-barick-2878ba303/
+
 💻 GitHub: https://github.com/Mousume6297
 
 
