@@ -9,7 +9,7 @@ The website is designed to highlight my work as a **Java / Software Developer** 
 
 ##  Live Demo
 
-
+https://mousume6297.github.io/FUTURE_FS_01/
 
 ---
 
@@ -41,8 +41,6 @@ Currently seeking opportunities as a **Java / Software Developer**.
 - Skills and education sections
 - Contact form with EmailJS integration
 - GitHub and LinkedIn profile links
-
----
 
 ---
 
