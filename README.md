@@ -5,13 +5,11 @@ It showcases my projects, skills, education, and contact information.
 
 The website is designed to highlight my work as a **Java / Software Developer** and provide an easy way for recruiters and collaborators to connect with me.
 
----
 
 ##  Live Demo
 
 https://mousume6297.github.io/FUTURE_FS_01/
 
----
 
 ## 👩‍💻 About Me
 
@@ -20,7 +18,6 @@ I enjoy building modern applications and solving real-world problems through cod
 
 Currently seeking opportunities as a **Java / Software Developer**.
 
----
 
 ##  Technologies Used
 
@@ -31,7 +28,6 @@ Currently seeking opportunities as a **Java / Software Developer**.
 - Git & GitHub
 - EmailJS (for contact form)
 
----
 
 ##  Features
 
@@ -42,16 +38,14 @@ Currently seeking opportunities as a **Java / Software Developer**.
 - Contact form with EmailJS integration
 - GitHub and LinkedIn profile links
 
----
 
 ##  Contact
 
 If you have any internship or job opportunities, feel free to connect with me.
 
 📧 Email: mousumebarick@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mousume-barick-2878ba303/
 💻 GitHub: https://github.com/Mousume6297
 
----
 
 ⭐ If you like this project, feel free to give it a star!
