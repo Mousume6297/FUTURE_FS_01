@@ -2,7 +2,7 @@ function Navbar() {
   return (
     <div className="navbar">
 
-      <h2>Mousume</h2>
+      <h2>Mousume Barick</h2>
 
       <div className="nav-links">
         <a href="#about">About</a>
