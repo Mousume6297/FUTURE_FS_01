@@ -43,3 +43,17 @@ Currently seeking opportunities as a **Java / Software Developer**.
 - GitHub and LinkedIn profile links
 
 ---
+
+---
+
+##  Contact
+
+If you have any internship or job opportunities, feel free to connect with me.
+
+📧 Email: mousumebarick@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com  
+💻 GitHub: https://github.com/Mousume6297
+
+---
+
+⭐ If you like this project, feel free to give it a star!
