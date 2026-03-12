@@ -16,7 +16,7 @@ function Contact() {
       () => {
         alert("Message sent successfully!");
       },
-      () => {
+      () => { 
         alert("Failed to send message. Try again.");
       }
     );

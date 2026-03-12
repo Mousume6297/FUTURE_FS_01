@@ -46,7 +46,11 @@ function Hero() {
   View Projects
 </a>
 
-  <a href="/Mousume_barick_Resume.pdf" download = "Mousume.Barick_Resume.pdf" className="btn-outline">
+  <a 
+  href={process.env.PUBLIC_URL + "/Mousume_barick_Resume.pdf"} 
+  download
+  className="btn-outline"
+>
   Download Resume
 </a>
 
